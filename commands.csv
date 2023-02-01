@@ -1,0 +1,31 @@
+pwd,"Print working directory",1
+ls,"List files and directories in current working directory",1
+cd,"Change current working directory",1
+mkdir,"Create a directory",1
+rmdir,"Erase a directory",1
+rm,"Erase a file",1
+cp,"Copy",1
+mv,"Move a file",1
+ssh,"Remotely connect to a different computer",2
+scp,"Remotley copy files and/or directories from one computer to another",2
+man,"Archive of command manuals",2
+g++,"Compiler for C++",2
+gcc,"Compiler for C",2
+make,"Compile big programs with a helpful file",2
+ps,"A system monitor with CPU %",2
+kill,"Terminates a program",2
+top,"A full system monitor even though htop is better",2
+who,"Returns current user & tty in use & and date/time",3
+chmod,"Change the permissions of a file or directory",3
+cat,"Displays contents of a file",3
+alias,"Run a single command with options (i.e. ll)",3
+chown,"Change ownership of a file or directory",3
+df,"Displays mounted drives/partitions and the space used and available on each",3
+grep,"Searchs through text for a specified phrase then returns lines that contain it",3
+echo,"Returns text which is usually used in scripts and to determine environment variables",2
+find,"Locate a file in a specified tree",4
+clear,"Removes the scroll-through in a terminal",1
+diff,"Analyzes 2 text files and returns the diffence",2
+env,"Returns all the environment variables in use",4
+free,"Returns the status of the system memory",3
+neofetch,"Colorful description of distribution and hardware",4
